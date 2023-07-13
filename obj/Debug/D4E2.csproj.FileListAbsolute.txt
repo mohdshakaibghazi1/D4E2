@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\D4E2\D4E2\bin\Debug\D4E2.exe.config
+C:\Users\moham\source\repos\D4E2\D4E2\bin\Debug\D4E2.exe
+C:\Users\moham\source\repos\D4E2\D4E2\bin\Debug\D4E2.pdb
+C:\Users\moham\source\repos\D4E2\D4E2\obj\Debug\D4E2.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\D4E2\D4E2\obj\Debug\D4E2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\D4E2\D4E2\obj\Debug\D4E2.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\D4E2\D4E2\obj\Debug\D4E2.exe
+C:\Users\moham\source\repos\D4E2\D4E2\obj\Debug\D4E2.pdb
